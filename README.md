@@ -13,7 +13,6 @@ This is a **frontend-only prototype** — no backend, no database, no login. All
 - **Submit Challenge** — citizens report a problem with title, description, district, and photo. AI predicts the domain, routes it to a matched university, and flags likely duplicates.
 - **University Dashboard** — review challenges routed to an institution, move them through a status pipeline (New → Under Review → Team Assigned → In Progress → Resolved), assign student-faculty teams, invite industry/CSR partners.
 - **Analytics Dashboard** — charts for submissions by domain, district, and institutional participation, plus a Before/After impact comparison.
-- **Light/Dark theme** toggle.
 - Realistic seeded Indian mock data (names, districts, dates).
 
 ## Tech stack
